@@ -1,6 +1,8 @@
 # DFScriptPVF
 A Dungeon & Fighter Script.pvf unpacker. Only used in 60/55 version.
 
+## See "Branch" to view the code
+
 # 55 PVF Structure
 
 ## Script Header
